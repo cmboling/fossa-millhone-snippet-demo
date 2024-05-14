@@ -18,4 +18,5 @@ cat snippets/main.c.json | jq
 
 ### References
 
-https://github.com/fossas/fossa-cli/blob/master/docs/references/subcommands/snippets.md
+- https://github.com/fossas/fossa-cli/blob/master/docs/references/subcommands/snippets.md
+- FOSSA C++ Demo Example: https://github.com/fossas/cpp-vsi-demo
